@@ -1,5 +1,5 @@
 # WebsiteProject
-Set up Database:
+Set up Database:  
 Create Database:
 To create your database, in the MariaDB/mysql command line, do
 ```
