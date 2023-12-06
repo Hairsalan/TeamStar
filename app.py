@@ -1,6 +1,6 @@
 import requests
 from flask import Flask, render_template, jsonify, request
-from flask_cors import CORS #CORS gives permission for website to access when running server on local (for testing)
+from flask_cors import CORS #if running frontend on a website and backend locally, CORS gives them permission to communicate
 from db import get_db
 
 app = Flask(__name__)
