@@ -1,7 +1,7 @@
 # WebsiteProject
 Set up Database:  
 Create Database:  
-To create your database, in the MariaDB/mysql command line, do
+To create your database, in the MariaDB (mysql) command line, do
 ```
 source PATH_TO_FILE
 ```
